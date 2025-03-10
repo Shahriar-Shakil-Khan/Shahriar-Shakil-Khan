@@ -49,6 +49,9 @@
 </div>
 
 ###
+<h5 align="left">👨🏽‍💻 Other Skills : Assembly Language and Cisco Packet Tracer.</h5>
+
+###
 
 
 
