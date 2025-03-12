@@ -12,7 +12,7 @@
 </div>
 <h2 align="left">About me</h2>
 
-<h6 align="left">I am a passionate and ambitious undergraduate Computer Science student at AIUB, exploring the dynamic world of web development. With expertise in both Full-Stack and MERN Stack development, I have a strong foundation in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Firebase, Node.js, Express.js, MongoDB, Django, MySQL, and PHP. These skills enable me to efficiently build beginner-friendly full-stack applications.<br><br>🌱 I’m currently learning Next JsNode.js, Express.js ,Django,React<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Web Development<br>📫 How to reach me: shahriarshakil28@gmail.com</h6>
+<h5 align="left">I am a passionate and ambitious undergraduate Computer Science student at AIUB, exploring the dynamic world of web development. With expertise in both Full-Stack and MERN Stack development, I have a strong foundation in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Firebase, Node.js, Express.js, MongoDB, Django, MySQL, and PHP. These skills enable me to efficiently build beginner-friendly full-stack applications.<br><br>👩🏻‍💻 I’m currently learning Next Js, Node.js, Express.js , Django, React<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Web Development<br>📫 How to reach me: shahriarshakil28@gmail.com</h5>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -49,9 +49,32 @@
 </div>
 
 ###
-<h5 align="left">👨🏽‍💻 Other Skills : Assembly Language and Cisco Packet Tracer.</h5>
+<h4 align="left">👨🏽‍💻 Other Skills : Assembly Language and Cisco Packet Tracer.</h4><br>
+
+<p align="left"> Sports /Activities / Hobby:<br>🏏 Cricket, ⚽ Football,♟️ Chess<br>🚶‍♂️Walking ,🚗Driving <br>🎧 Listening To Music and 🪘playing Tabla.</p>
 
 ###
+
+###
+📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahriar-Shakil-Khan&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shahriar-Shakil-Khan&theme=gruvbox&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Shakil-Khan&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahriar-Shakil-Khan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+
+
+
+
+
+
+
 
 
 
