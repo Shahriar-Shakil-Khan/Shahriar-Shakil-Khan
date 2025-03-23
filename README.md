@@ -12,7 +12,7 @@
 </div>
 <h2 align="left">About me</h2>
 
-<h5 align="left">I am a passionate and ambitious undergraduate Computer Science student at AIUB, exploring the dynamic world of web development. With expertise in both Full-Stack and MERN Stack development, I have a strong foundation in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Firebase, Node.js, Express.js, MongoDB, Django, MySQL, and PHP. These skills enable me to efficiently build beginner-friendly full-stack applications.<br><br>👩🏻‍💻 I’m currently learning Next Js, Node.js, Express.js , Django, React<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Web Development<br>📫 How to reach me: shahriarshakil28@gmail.com</h5>
+<h5 align="left">I am a passionate and ambitious undergraduate Computer Science student at AIUB, exploring the dynamic world of web development. With expertise in both Full-Stack and MERN Stack development, I have a strong foundation in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Firebase, Node.js, Express.js, MongoDB, Django, MySQL. These skills enable me to efficiently build beginner-friendly full-stack applications.<br><br>👩🏻‍💻 I’m currently learning Node.js, Express.js , Django, React and PHP<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Web Development<br>📫 How to reach me: shahriarshakil28@gmail.com</h5>
 
 <h3 align="left">🛠 Language and tools</h3>
 
