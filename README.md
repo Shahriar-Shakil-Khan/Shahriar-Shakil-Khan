@@ -19,33 +19,33 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="5" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="5" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="5" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="5" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="5" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="5" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="5" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="5" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="5" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="5" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="5" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="5" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
+  <img src="https://skillicons.dev/icons?i=autocad" height="5" alt="autocad logo"  />
 </div>
 
 ###
