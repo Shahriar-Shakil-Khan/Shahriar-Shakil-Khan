@@ -17,7 +17,7 @@
 
 
 ###
-<!--
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="5" alt="html5 logo"  />
   <img width="12" />
@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="5" alt="autocad logo"  />
 </div>
--->
+
 
 ###
 <h4 align="left">👨🏽‍💻 Other Skills : Assembly Language and Cisco Packet Tracer.</h4><br>
